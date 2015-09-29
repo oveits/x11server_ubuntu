@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM ubuntu:trusty
 MAINTAINER Jan Suchotzki <jan@suchotzki.de>
 
 # first create user and group for all the X Window stuff
