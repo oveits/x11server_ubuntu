@@ -1,6 +1,6 @@
 ## References
 
-Most parts of this image are based on the work on ([Jan Suchotzki (suchja)](https://hub.docker.com/u/suchja/)), as are most parts of the following description.
+Most parts of this image are based on the work of [Jan Suchotzki (suchja)](https://hub.docker.com/u/suchja/), as are most parts of the following description.
 
 ## About
 Docker Image for creating a service container providing an framebuffered X11-Server ([xvfb](http://www.x.org/archive/X11R7.6/doc/man/man1/Xvfb.1.xhtml)) in conjunction with a VNC-Server ([x11vnc](http://www.karlrunge.com/x11vnc/)). It allows to get the display of an application running inside a docker container to the host or any other machine accessing the VNC-Server.
