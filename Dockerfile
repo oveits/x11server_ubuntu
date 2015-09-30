@@ -1,5 +1,6 @@
 FROM ubuntu:trusty
-MAINTAINER Jan Suchotzki <jan@suchotzki.de>
+MAINTAINER Adrian Buerger <adrian.buerger@hs-karlsruhe.de>
+# based o the work of Jan Suchotzki (suchja) <jan@suchotzki.de>
 
 # first create user and group for all the X Window stuff
 # required to do this first so have consistent uid/gid between server and client container
